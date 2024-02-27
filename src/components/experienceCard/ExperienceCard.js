@@ -60,6 +60,15 @@ export default function ExperienceCard({cardInfo, isDark}) {
         <h5
           className={
             isDark
+              ? "experience-text-location dark-mode-text"
+              : "experience-text-location"
+          }
+        >
+          {cardInfo.location}
+        </h5>
+        <h5
+          className={
+            isDark
               ? "experience-text-date dark-mode-text"
               : "experience-text-date"
           }

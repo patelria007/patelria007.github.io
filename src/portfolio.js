@@ -180,7 +180,7 @@ const workExperiences = {
   experience: [
     {
       role: "Summer Graduate Student Research Intern",
-      company: "RIKEN Center for Computational Science",
+      company: "RIKEN R-CCS",
       companylogo: require("./assets/images/riken-logo.jpg"),
       location: "Kobe, Japan",
       date: "May 2023 - July 2023",
@@ -191,7 +191,8 @@ const workExperiences = {
     },
     {
       role: "Research Scientist",
-      company: "Global Computing Laboratory - UTK",
+      company: "Global Computing Lab",
+      location: "Knoxville, TN",
       companylogo: require("./assets/images/gclab-logo.png"),
       date: "February 2023 – May 2023",
       descBullets: [
@@ -200,7 +201,8 @@ const workExperiences = {
     },
     {
       role: "Full-stack Software Engineer & Product Owner Intern",
-      company: "Allstate Technology and Strategic Ventures",
+      company: "Allstate Technology & Strategic Ventures",
+      location: "Remote",
       companylogo: require("./assets/images/allstate-logo.png"),
       date: "May 2021 – August 2021",
       desc: "",
