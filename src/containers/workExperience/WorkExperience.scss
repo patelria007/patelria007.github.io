@@ -1,7 +1,7 @@
 .experience-cards-div {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
-  gap: 1rem 1rem;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
 }
 
 .experience-heading {
@@ -29,9 +29,18 @@
   }
 }
 
+@media (max-width: 1024px) {
+  .experience-cards-div {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 768px) {
   .experience-heading {
     font-size: 30px;
     text-align: center;
+  }
+  .experience-cards-div {
+    grid-template-columns: 1fr;
   }
 }

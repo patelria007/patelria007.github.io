@@ -44,6 +44,10 @@
   background-color: $gitlab;
 }
 
+.google-scholar i {
+  background-color: #4285F4;
+}
+
 .google i {
   background-color: $google;
 }
@@ -75,6 +79,7 @@
 /* Hover Transition */
 .twitter i:hover,
 .google i:hover,
+.google-scholar i:hover,
 .gitlab i:hover,
 .github i:hover,
 .linkedin i:hover,

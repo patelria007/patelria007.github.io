@@ -2,7 +2,7 @@ import React, {useContext} from "react";
 import {Fade} from "react-reveal";
 import emoji from "react-easy-emoji";
 import "./Greeting.scss";
-import landingPerson from "../../assets/lottie/landingPerson";
+import landingPerson from "../../assets/lottie/greeting.json";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
@@ -42,9 +42,16 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <Button
-                    text="See my CV"
+                    text="Resume"
                     newTab={true}
                     href={greeting.resumeLink}
+                  />
+                )}
+                {greeting.cvLink && (
+                  <Button
+                    text="CV"
+                    newTab={true}
+                    href={greeting.cvLink}
                   />
                 )}
               </div>
