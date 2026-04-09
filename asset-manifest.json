@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.cae2f220.css",
-    "main.js": "/static/js/main.6a472b20.js",
-    "static/css/487.45488974.chunk.css": "/static/css/487.45488974.chunk.css",
-    "static/js/487.7ae187c0.chunk.js": "/static/js/487.7ae187c0.chunk.js",
-    "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
-    "static/js/990.58392ad8.chunk.js": "/static/js/990.58392ad8.chunk.js",
+    "main.js": "/static/js/main.54b7e1a3.js",
+    "static/css/64.75e22000.chunk.css": "/static/css/64.75e22000.chunk.css",
+    "static/js/64.1789dc55.chunk.js": "/static/js/64.1789dc55.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.f64b0a3b.chunk.js": "/static/js/769.f64b0a3b.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/gclab-logo.png": "/static/media/gclab-logo.fe41c07c8fab3a281f69.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -22,14 +22,14 @@
     "static/media/google-scholar.svg": "/static/media/google-scholar.2da686e9631c8c3ee9cd59aba75d640d.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.cae2f220.css.map": "/static/css/main.cae2f220.css.map",
-    "main.6a472b20.js.map": "/static/js/main.6a472b20.js.map",
-    "487.45488974.chunk.css.map": "/static/css/487.45488974.chunk.css.map",
-    "487.7ae187c0.chunk.js.map": "/static/js/487.7ae187c0.chunk.js.map",
-    "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
-    "990.58392ad8.chunk.js.map": "/static/js/990.58392ad8.chunk.js.map"
+    "main.54b7e1a3.js.map": "/static/js/main.54b7e1a3.js.map",
+    "64.75e22000.chunk.css.map": "/static/css/64.75e22000.chunk.css.map",
+    "64.1789dc55.chunk.js.map": "/static/js/64.1789dc55.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.f64b0a3b.chunk.js.map": "/static/js/769.f64b0a3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cae2f220.css",
-    "static/js/main.6a472b20.js"
+    "static/js/main.54b7e1a3.js"
   ]
 }
